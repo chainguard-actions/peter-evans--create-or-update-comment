@@ -1,6 +1,12 @@
 # peter-evans/create-or-update-comment
 
-Hardened GitHub Action by [Chainguard](https://www.chainguard.dev).
+Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at [https://github.com/peter-evans/create-or-update-comment](https://github.com/peter-evans/create-or-update-comment).
+
+## Versions
+
+| Version | Tag | Upstream commit |
+|---------|-----|-----------------|
+| v5.0.0 | [`v5.0.0`](https://github.com/chainguard-actions/create-or-update-comment/tree/v5.0.0) | — |
 
 ## Privacy
 
