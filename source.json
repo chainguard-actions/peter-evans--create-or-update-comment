@@ -1,4 +1,6 @@
 {
-  "upstream": "peter-evans/create-or-update-comment",
-  "version": "v5.0.0"
+  "owner": "peter-evans",
+  "repo": "create-or-update-comment",
+  "version": "",
+  "url": "https://github.com/peter-evans/create-or-update-comment"
 }
