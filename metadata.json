@@ -1,7 +1,0 @@
-{
-  "owner": "peter-evans",
-  "name": "create-or-update-comment",
-  "visibility": "public",
-  "description": "A GitHub action to create or update an issue or pull request comment",
-  "block_publish": false
-}
